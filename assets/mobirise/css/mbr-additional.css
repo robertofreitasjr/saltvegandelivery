@@ -714,7 +714,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/capa-salt-vegan-delivery-site-4-1600x1200.png");
 }
 .cid-s2Cf8grxvZ {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -732,8 +732,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s2CgRaM2Mh {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s2CgRaM2Mh .mbr-section-subtitle {
@@ -827,6 +827,140 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s2CgRaM2Mh P {
+  color: #ffffff;
+}
+.cid-s2FbmVz7sr {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s2FbmVz7sr h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s2FbmVz7sr p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s2FbmVz7sr .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s2FbmVz7sr .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s2FbmVz7sr .mbr-text {
+  color: #767676;
+}
+.cid-s2FbmVz7sr .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s2FbmVz7sr .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s2FbmVz7sr H2 {
+  text-align: center;
+  color: #303030;
+}
+.cid-s2FbnTCkM7 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s2FbnTCkM7 h2 {
+  margin-bottom: 0;
+}
+.cid-s2FbnTCkM7 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-s2FbnTCkM7 p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-s2FbnTCkM7 .card-wrapper {
+  border-top: 1px solid #ffffff;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-s2FbnTCkM7 .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-s2FbnTCkM7 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-s2FbnTCkM7 .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-s2FbnTCkM7 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-s2FbnTCkM7 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-s2FbnTCkM7 H2 {
+  color: #303030;
+  text-align: center;
+}
+.cid-s2FbubMJhj {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #303030;
+}
+.cid-s2FbubMJhj .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-s2FbubMJhj .formoid {
+  margin: auto;
+}
+.cid-s2FbubMJhj .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-s2FbubMJhj .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-s2FbubMJhj a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-s2FbubMJhj a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-s2FbubMJhj .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-s2FbubMJhj .form-group,
+  .cid-s2FbubMJhj .input-group-btn,
+  .cid-s2FbubMJhj .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-s2FbubMJhj .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
+.cid-s2FbubMJhj H2 {
   color: #ffffff;
 }
 .cid-s2CoE5eI6j {
