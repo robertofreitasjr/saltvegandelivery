@@ -47,7 +47,7 @@
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "header_custom": "<meta name=\"theme-color\" content=\"#2b2a2a\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#2b2a2a\">\n\n\n",
+    "header_custom": "<meta name=\"theme-color\" content=\"#2b2a2a\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#2b2a2a\">\n\n\n\n",
     "favicon": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
