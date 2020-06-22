@@ -856,6 +856,10 @@ section.lazy-placeholder:after {
 }
 .cid-s2FbmVz7sr .card-wrapper {
   height: 100%;
+  background: #ffffff;
+}
+.cid-s2FbmVz7sr .card-wrapper .card-box {
+  padding: 0 2rem 2rem;
 }
 @media (max-width: 767px) {
   .cid-s2FbmVz7sr .card:not(.last-child) {
@@ -984,8 +988,8 @@ section.lazy-placeholder:after {
   color: #303030;
 }
 .cid-s2FjH8APog {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s2FjH8APog .google-map {
