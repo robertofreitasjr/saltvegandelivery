@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 .form-control {
   font-family: 'Roboto', sans-serif;
@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s2Ce9DYxgI {
-  background-image: url("../../../assets/images/capa-salt-vegan-delivery-site-2-1600x1200.png");
+  background-image: url("../../../assets/images/capa-salt-vegan-delivery-site-4-1600x1200.png");
 }
 .cid-s2Cf8grxvZ {
   padding-top: 15px;
