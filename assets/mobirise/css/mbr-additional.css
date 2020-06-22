@@ -726,14 +726,16 @@ section.lazy-placeholder:after {
 }
 .cid-s2C7mRTB5j H3 {
   color: #2b2a2a;
+  text-align: center;
 }
 .cid-s2C7mRTB5j .mbr-text,
 .cid-s2C7mRTB5j .mbr-section-btn {
   color: #3cb371;
+  text-align: center;
 }
 .cid-s2CaajiuZ9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s2CaajiuZ9 .mbr-section-subtitle {
