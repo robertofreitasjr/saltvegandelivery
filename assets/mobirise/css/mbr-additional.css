@@ -983,44 +983,20 @@ section.lazy-placeholder:after {
 .cid-s2FgTXN0iz H2 {
   color: #303030;
 }
-.cid-s2Fhr4YQUS .main_wrapper {
-  position: relative;
-  height: 28rem;
-  width: 100%;
-  background-color: #c0c0c0;
-}
-.cid-s2Fhr4YQUS .main_wrapper .b_wrapper {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  position: relative;
-  z-index: 2;
-  pointer-events: none;
-}
-.cid-s2Fhr4YQUS .main_wrapper .b_wrapper .block {
-  height: 300px;
+.cid-s2FjH8APog {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
-  pointer-events: fill;
 }
-.cid-s2Fhr4YQUS .main_wrapper .b_wrapper .block .block_wrapper {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  height: 100%;
+.cid-s2FjH8APog .google-map {
+  height: 25rem;
+  position: relative;
 }
-.cid-s2Fhr4YQUS .google-map {
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
-  z-index: 1;
-}
-.cid-s2Fhr4YQUS .google-map iframe {
+.cid-s2FjH8APog .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-s2Fhr4YQUS .google-map [data-state-details] {
+.cid-s2FjH8APog .google-map [data-state-details] {
   color: #6b6763;
   font-family: Montserrat;
   height: 1.5em;
@@ -1032,24 +1008,11 @@ section.lazy-placeholder:after {
   top: 50%;
   width: 100%;
 }
-.cid-s2Fhr4YQUS .google-map[data-state] {
+.cid-s2FjH8APog .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-s2Fhr4YQUS .google-map[data-state="loading"] [data-state-details] {
+.cid-s2FjH8APog .google-map[data-state="loading"] [data-state-details] {
   display: none;
-}
-@media (max-width: 767px) {
-  .cid-s2Fhr4YQUS .main_wrapper .b_wrapper {
-    display: block;
-    height: unset;
-  }
-  .cid-s2Fhr4YQUS .google-map {
-    position: relative;
-  }
-  .cid-s2Fhr4YQUS .container {
-    max-width: 100%;
-    padding: 0;
-  }
 }
 .cid-s2ChSVtnk1 {
   padding-top: 30px;
