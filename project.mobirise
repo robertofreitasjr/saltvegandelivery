@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#2b2a2a",
         "#303030",
-        "#128127"
+        "#128127",
+        "#000000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -56,11 +57,11 @@
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#ffffff",
-      "colorBg": "#303030",
-      "colorButton": "#128127",
+      "colorBg": "#000000",
+      "colorButton": "#149dcc",
       "colorLink": "#ffffff",
       "underlineLink": true,
-      "opacity": "66",
+      "opacity": "86",
       "opacityOverlay": "80",
       "text": "Este site utiliza cookies para garantir uma melhor experiência de navegação.\nÉ possível desativar nas configurações do seu dispositivo.",
       "textButton": "OK! ENTENDI."
