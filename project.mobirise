@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Salt Vegan 2020",
-    "currentPage": "index.html",
+    "currentPage": "delivery-de-salgados-veganos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -70,7 +70,7 @@
     "htmltag": "<html>"
   },
   "pages": {
-    "index.html": {
+    "delivery-de-salgados-veganos.html": {
       "settings": {
         "main": true,
         "title": "Salt Vegan - Delivery de Salgados Veganos",
