@@ -126,6 +126,10 @@
             ".mbr-text, .mbr-section-btn": {
               "color": "#128127",
               "text-align": "center"
+            },
+            "H1": {
+              "color": "#303030",
+              "text-align": "center"
             }
           },
           "_name": "info3",
